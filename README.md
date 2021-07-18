@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khongchai
-- 👀 I’m interested in Tech/music
+- 👀 I enjoy writing resuable utils functions.
 - 🌱 I’m currently learning everything!
-- 💞️ I’m looking to collaborate on music stuff
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me : world1955@hotmail.com
 
 <!---
