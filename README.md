@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khongchai
-- 👀 I enjoy writing resuable utils functions.
+- 👀 I enjoy creating orchestral music / animations / coding.
 - 🌱 I’m currently learning everything!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me : world1955@hotmail.com
