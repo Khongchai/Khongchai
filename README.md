@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Khongchai
-- 👀 I enjoy creating orchestral music / animations / coding.
-- 🌱 I’m currently learning everything!
-- 💞️ I’m looking to collaborate on anything!
+- 👀 I enjoy creating orchestral music / making interactive animations / coding.
+- 🌱 I’m currently learning math + animation + some random stuff along the way.
 - 📫 How to reach me : world1955@hotmail.com
 
 <!---
