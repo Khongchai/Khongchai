@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Khongchai
 - 👀 I enjoy creating orchestral music / making interactive animations / coding.
-- 🌱 I’m currently learning math + animation + some random stuff along the way.
-- 📫 How to reach me : world1955@hotmail.com
+- 🌱 Currently loving Flutter & React & animation-related stuff
 
 <!---
 Khongchai/Khongchai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
