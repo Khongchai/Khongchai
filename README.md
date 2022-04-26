@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khongchai
-- 👀 I enjoy creating orchestral music / making interactive animations / coding.
+- 👀 I enjoy making stuff that works :p
 - 🌱 Currently loving Flutter & React & animation-related stuff
 
 <!---
